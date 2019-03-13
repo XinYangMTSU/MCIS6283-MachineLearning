@@ -20,11 +20,15 @@ NLP Applications:
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Build a machine translator or a speech recognition system .`
 ### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Document Summarization`
 
-# `1. Binary System`
 
-`Binary` is a `base 2` number system invented by Gottfried Leibniz that is made up of only two numbers: `0` and `1`. You may
-have heard that computers work on ones and zeros. But almost nobody today actually deal directly with these ones and zeros,
-but ones and zeros do play a big role in how computers work on the inside. 
+# `1. NLP - Bag of Words`
+
+Bag of words is a very popular NLP model. It is a model used to preprocess the texts to classify before fitting the classification algorithms on the observations containing the texts.
+
+It invovlves two things:
+
+1. A vocabulary of known words
+2. A measure of the presence of known words
 
 <p align="center">
    Figure 1: Binary
