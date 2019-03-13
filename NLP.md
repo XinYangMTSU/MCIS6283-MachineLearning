@@ -1,4 +1,8 @@
-# Chapter 2: Binary & Data Representation
+# NLP: Natural Language Processing
+
+Natural Language Processing is an area of comuter science and artificial intelligence concerned with the interactions between computers and human(natural) languages. NLP is used to apply Machine Learning models to text and language.
+
+Teach machines to understand what is said in spoken and written word is the focus of Natural Language Processing. When you dictate something into your iPhone/Android device that is then converted to text, that's an NLP algorithm in action.
 
 In this chapter, you’ll learn how information is represented inside the computer:
 
