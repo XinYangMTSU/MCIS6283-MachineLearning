@@ -14,11 +14,11 @@ Clean texts to prepare them for the Machine Learning models,
 Create a Bag of Words model,
 Apply Machine Learning models onto this Bag of Worlds model.
 
-In this chapter, you’ll learn how information is represented inside the computer:
+NLP Applications:
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Binary System.`
-### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Data representation in binary.`
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `3. KiloByte, MegaByte, GigaByte, TeraByte.`
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Sentiment Analysis.`
+### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Build a machine translator or a speech recognition system .`
+### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Document Summarization`
 
 # `1. Binary System`
 
