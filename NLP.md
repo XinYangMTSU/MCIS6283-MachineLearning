@@ -8,19 +8,18 @@ You can also use NLP on a text review to predict if the review is a good one or 
 
 ## NLP Applications:
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Sentiment Analysis.`
-### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Build a machine translator or a speech recognition system .`
-### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Document Summarization`
+#### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Sentiment Analysis.`
+#### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Build a machine translator or a speech recognition system .`
+#### ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) `Document Summarization`
 
 
 A very well-known model in NLP is the Bag of Words model. It is a model used to preprocess the texts to classify before fitting the classification algorithms on the observations containing the texts.
 
-In this part, you will understand and learn how to:
+In this class, you will understand and learn how to:
 
-### Clean texts to prepare them for the Machine Learning models,
-### Create a Bag of Words model,
-### Apply Machine Learning models onto this Bag of Worlds model.
-
+#### 1. Clean texts to prepare them for the Machine Learning models,
+#### 2. Create a Bag of Words model,
+#### 3. Apply Machine Learning models onto this Bag of Worlds model.
 
 
 # `1. NLP - Bag of Words`
