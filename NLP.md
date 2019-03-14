@@ -28,7 +28,7 @@ In this part, you will understand and learn how to:
 #### ![#ff00ff](https://placehold.it/15/cc0066/000000?text=+) 3. Apply Machine Learning models onto this Bag of Worlds model.
 
 
-
+<!--
 <p align="center">
    Figure 1: Binary
 </p>
@@ -36,4 +36,5 @@ In this part, you will understand and learn how to:
 <p align="center">
   <img height="300" width="400" src="https://github.com/XinYangSAU/CSCI1101-Intro-to-Computing/blob/master/Images/binary.jpg" alt="Binary"/>
 </p>
+-->
 
